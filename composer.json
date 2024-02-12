@@ -1,0 +1,11 @@
+{
+    "name": "elie/user-service",
+    "require": {
+        "laravel/framework": "^10.43"
+    },
+    "autoload": {
+        "psr-4": {
+            "Elie\\UserService\\": "src/"
+        }
+    }
+}
